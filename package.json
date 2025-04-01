@@ -1,0 +1,21 @@
+{
+  "name": "test_netlify_functions",
+  "version": "1.0.0",
+  "description": "Just a simple repo to test out serverless functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Light770/test-netlify-function.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Light770/test-netlify-function/issues"
+  },
+  "homepage": "https://github.com/Light770/test-netlify-function#readme"
+}
